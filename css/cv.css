@@ -1,0 +1,63 @@
+body {
+	margin: 30px; 
+	padding: 30px;
+	font-family: Georgia, serif;
+}
+
+header {
+	border-radius:20px;
+	background:white;
+	border:2px solid black;
+	background-color: #CCC;
+}
+
+img {
+	text-align: center;
+}
+p {
+	font-size: 20px;
+}
+h2 {
+	font-size: 25px;
+}
+
+footer {
+	text-align: left;
+	font-style: italic;
+
+}
+.competences {
+	border: 2px solid black;
+	border-radius: 20px;
+	text-align: center;
+}
+.pull-right {
+	float: right;
+}
+ul{
+	font-size: 2em;
+	
+}
+.metier {
+	background-color: #DDD;
+	text-align: center;
+	font-size:6em;
+	font-family: Verdana ,serif;
+	font-style: italic;
+	border: 4px solid black;
+	border-radius: 20px;
+
+}
+.col-lg-12 {
+	border: 1px solid black;
+	border-radius: 20px;
+	background-color: #B8BDBD;
+}
+.col-lg-6 {
+	border: 2px solid black;
+	border-radius: 20px;
+}
+.interet {
+	border: 3px solid black;
+	border-radius: 20px;
+}
